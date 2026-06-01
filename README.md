@@ -120,7 +120,11 @@ The equal area criterion was used to determine whether the system remains stable
 
 **Caption:** Fig. 1: Waveshape of power angle equation showing equal area criterion when fault occurs at the sending end.
 
+### **Fig. 2: Waveshape of Power Angle Equation Showing Equal Area Criterion When Fault Occurs at the Middle of the Transmission Line**
 
+![Fig. 2: Waveshape of power angle equation showing equal area criterion when fault occurs at middle of the transmission line](fault_in_transmission_line_equal_area_curve.png)
+
+**Caption:** Fig. 2: Waveshape of power angle equation showing equal area criterion when fault occurs at middle of the transmission line.
 
 The results show that:
 
