@@ -1,6 +1,6 @@
 # Power System Transient Stability of Synchronous Machine using MATLAB
 
-> MATLAB-based transient stability analysis of a synchronous machine using swing equation and equal area criterion.
+MATLAB-based transient stability analysis of a synchronous machine using swing equation and equal area criterion.
 
 ## Project Overview
 
