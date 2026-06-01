@@ -114,6 +114,14 @@ The transient stability of the synchronous machine was successfully analyzed usi
 
 The equal area criterion was used to determine whether the system remains stable after a disturbance. The MATLAB simulation produced power-angle curves and calculated the critical clearing angle for different fault conditions.
 
+### **Fig. 1: Waveshape of Power Angle Equation Showing Equal Area Criterion When Fault Occurs at the Sending End**
+
+![Fig. 1: Waveshape of power angle equation showing equal area criterion when fault occurs at the sending end](fault_at_sending_end_equal_area_curve.png)
+
+**Caption:** Fig. 1: Waveshape of power angle equation showing equal area criterion when fault occurs at the sending end.
+
+
+
 The results show that:
 
 * The initial power angle was found to be **26.388 degrees**.
